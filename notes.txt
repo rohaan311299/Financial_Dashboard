@@ -1,0 +1,6 @@
+Notes:
+
+app : contains routes, components, logic
+app/lib: contains functions used in application
+app/ui: contains UI components in your application
+/public: contains assets
